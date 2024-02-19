@@ -10,4 +10,4 @@
  <br />
 Working as a Postdoctoral Bioinformatician at<a href="https://medicine.umich.edu/dept/michigan-neuroscience-institute/"> Michigan Neuroscience Institute, University of Michigan</a>. <br>
  Previously worked as a postdotoral fellow at <a href="https://www.northwestern.edu/">NorthWestern University, Chicago</a>. <br>
-    PhD, Computation Biology from <a href="https://www.iiitd.ac.in//">Indraprastha Institute of Information Technology, Delhi</a>. <br>
+    PhD, Computational Biology from <a href="https://www.iiitd.ac.in//">Indraprastha Institute of Information Technology, Delhi</a>. <br>
