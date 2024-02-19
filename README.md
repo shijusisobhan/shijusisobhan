@@ -10,4 +10,5 @@
 
     <br />
     PhD, Computational Biology from <a href="https://www.iiitd.ac.in/">Indraprastha Institute of Information Technology, Delhi</a>. <br>
-    
+        Previously a graduate student studying multipotency and differentiation of neural crest cells using cutting-edge genomics from the <a href="https://mbg.cornell.edu/people/marcos-simoes-costa">Simoes-Costa lab</a> at Cornell. 
+<br>
