@@ -9,4 +9,4 @@
 <a href="https://scholar.google.com/citations?user=4wzohA0AAAAJ&hl=en"><img src="https://www.aib.world/wp-content/uploads/2020/12/ethics-blog-google-scholar-profile-large.jpg" width="80" height="27" /></a>&nbsp;
  <br />
 Working as a Postdoctoral Bioinformatician at<a href="https://medicine.umich.edu/dept/michigan-neuroscience-institute/"> Michigan Neuroscience Institute, University of Michigan</a>. <br>
-    PhD, Computation Biology from <a href="https://www.iiitd.ac.in//">Indraprastha Institute of Information Technology</a>. <br>
+    PhD, Computation Biology from <a href="https://www.iiitd.ac.in//">Indraprastha Institute of Information Technology, Delhi</a>. <br>
