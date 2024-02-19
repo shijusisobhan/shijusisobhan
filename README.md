@@ -24,7 +24,7 @@ Working as a Postdoctoral Bioinformatician at<a href="https://medicine.umich.edu
     <p>I code with:</p>
     <a href="#"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;</a>
-    <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" alt="MATLAB" />&nbsp;</a>
+    <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" width="80" height="27" alt="MATLAB" />&nbsp;</a>
     <a href="#"><img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" alt="C" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />&nbsp;</a>
