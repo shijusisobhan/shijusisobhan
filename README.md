@@ -8,4 +8,4 @@
 <a href="mailto:shijusisobhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
 <a href="https://scholar.google.com/citations?user=4wzohA0AAAAJ&hl=en"><img src="https://www.aib.world/wp-content/uploads/2020/12/ethics-blog-google-scholar-profile-large.jpg" width="80" height="27" /></a>&nbsp;
  <br />
-    PhD, Molecular Biology and Genetics (Genetics, Genomics, and Development) from <a href="https://gendev.cornell.edu/">Cornell Unviersity</a>. <br>
+    PhD, Computation Biology from <a href="https://www.iiitd.ac.in//">Indraprastha Institute of Information Technology</a>. <br>
