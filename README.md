@@ -7,8 +7,6 @@
 <a href="https://www.linkedin.com/in/shiju-sisobhan-a10307100/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:shijusisobhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
 <a href="https://scholar.google.com/citations?user=4wzohA0AAAAJ&hl=en"><img src="https://www.aib.world/wp-content/uploads/2020/12/ethics-blog-google-scholar-profile-large.jpg" width="80" height="27" /></a>&nbsp;
-
-    <br />
-    PhD, Computational Biology from <a href="https://www.iiitd.ac.in/">Indraprastha Institute of Information Technology, Delhi</a>. <br>
-        Previously a graduate student studying multipotency and differentiation of neural crest cells using cutting-edge genomics from the <a href="https://mbg.cornell.edu/people/marcos-simoes-costa">Simoes-Costa lab</a> at Cornell. 
-<br>
+ <br />
+    PhD, Molecular Biology and Genetics (Genetics, Genomics, and Development) from <a href="https://gendev.cornell.edu/">Cornell Unviersity</a>. <br>
+    Previously a graduate student studying multipotency and differentiation of neural crest cells using cutting-edge genomics from the <a href="https://mbg.cornell.edu/people/marcos-simoes-costa">Simoes-Costa lab</a> at Cornell. 
