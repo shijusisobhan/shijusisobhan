@@ -9,4 +9,3 @@
 <a href="https://scholar.google.com/citations?user=4wzohA0AAAAJ&hl=en"><img src="https://www.aib.world/wp-content/uploads/2020/12/ethics-blog-google-scholar-profile-large.jpg" width="80" height="27" /></a>&nbsp;
  <br />
     PhD, Molecular Biology and Genetics (Genetics, Genomics, and Development) from <a href="https://gendev.cornell.edu/">Cornell Unviersity</a>. <br>
-    Previously a graduate student studying multipotency and differentiation of neural crest cells using cutting-edge genomics from the <a href="https://mbg.cornell.edu/people/marcos-simoes-costa">Simoes-Costa lab</a> at Cornell. 
