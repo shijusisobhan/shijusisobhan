@@ -33,5 +33,6 @@ Working as a Postdoctoral Bioinformatician at<a href="https://medicine.umich.edu
     <p>I use: </p>
     <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />&nbsp;</a>
     <a href="#"><img src="https://www.electronicsmedia.info/wp-content/uploads/2017/06/grid-computing-high-performance-computing-1.jpg" width="80" height="27" alt="HPC" />&nbsp;</a>
+     <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="80" height="27" alt="HPC" />&nbsp;</a>
     
    
